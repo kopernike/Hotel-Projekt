@@ -1,0 +1,11 @@
+img {
+    max-width: 50%;
+}
+
+#introduction{
+    font-size: 2rem;
+}
+
+.color{
+    color: rgb(17, 23, 125);
+} 
